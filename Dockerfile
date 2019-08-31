@@ -1,4 +1,4 @@
-FROM stefanfritsch/rstudio_statup:3.5.3.20190829
+FROM stefanfritsch/rstudio_statup:3.5.3.201908292
 LABEL maintainer="Stefan Fritsch <stefan.fritsch@stat-up.com>"
 
 RUN rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* \
